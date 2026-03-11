@@ -29,7 +29,6 @@ go.work
 .zed
 
 # Visual Studio Code
-.vscode
 
 # Vendoring
 vendor
@@ -37,10 +36,14 @@ vendor
 # Environment
 .docker/.env
 .docker/volumes/
-.env
 
 .docs/TIMELOG.md
 .docs/WISHLIST.md
 cmd/web/explorer/.idea
 **/.DS_Store
 /cmd/tps/data
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
